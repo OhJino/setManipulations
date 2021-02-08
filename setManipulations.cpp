@@ -1,5 +1,4 @@
 //Author: Jino Enriquez
-//Class: CISP 440
 //File: setActions.cpp
 #include <iostream>
 #include <string>
