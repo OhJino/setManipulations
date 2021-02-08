@@ -1,5 +1,5 @@
 //Author: Jino Enriquez
-//File: setActions.cpp
+//File: setManipulations.cpp
 #include <iostream>
 #include <string>
 #include <iterator>
